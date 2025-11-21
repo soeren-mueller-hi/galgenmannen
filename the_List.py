@@ -19,7 +19,9 @@ list = ["bisasam", "bisaknosp", "bisaflor", "glumanda", "glutexo", "glurak", "sc
         "lavitar","pupitar","despotar","lugia","hooh","celebi",
         "geckarbor","reptain","gewaldro","flemmli","jungglut","lohgock","hydropi","moorabbel","sumpex","fiffyen","magnayen","zigzachs","geradaks",
         "waumpel","schaloko","papinella","paneko","pudox","loturzel","lombrero","kappalores","samurzel","blanas","tengulist","schwalbini","schwalboss",
-        "wingull","pelipper",
+        "wingull","pelipper","trasla","kirlia","guardevoir","gehweiher","maskeregen","knilz","kapilz","bummelz","muntier","letarking","nincada","ninjask",
+        "ninjatom","flurmel","krakelo","krawumms","makuhita","hariyama","azurill","nasgnet","eneco","enekoro","zobiris","flunkiefer","stollunior",
+        "stollrak","stolloss","meditie","meditalis",
 
 
         "igamaro","igastarnish","brigaron","fynx","rutena","fennexis","froxy","amphizel","quajutsu","scoppel","grebbit","dartiri","dartignis","fiaro","purmel","puponcho",
@@ -27,4 +29,5 @@ list = ["bisasam", "bisaknosp", "bisaflor", "glumanda", "glutexo", "glurak", "sc
         "durengard","parfi","parfinesse","flauschling","sabbaione","iscalar","calamanero","bithora","thanathora","scampisto","wummer","eguana","elezard","balgoras",
         "monargoras","amarino","amagarga","feelinara","resladero","dedenne","rocara","viscora","viscargot","viscogon","clavion","paragoni","trombork","irrbis",
         "pumpdjinn","arktip","arktilas","efem","uhafnir","xerneas","yveltal","zygarde","diancie","hoopa","volcanion"]
+
 
