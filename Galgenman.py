@@ -17,4 +17,6 @@ while Leben > 0:
     Leben = Leben - 1
 
 
+
 print ("Du hast Versagt. Das Wort ist:" + Word)
+print ("you noob")
