@@ -1,14 +1,13 @@
-list = ["bisasam", "bisaknosp", "bisaflor", "glumanda", "glutexo", "glurak", "schiggy", "schillok", "turtok","raupy", "safcon", "smettbo",
-        "hornliu", "kokuna","bibor", "taubsi","tauboga", "tauboss", "rattfratz", "rattikarl","habitak","ibitak","rettan","arbok","pikachu","raichu",
-        "sandan", "sandamer", "nidoranw", "nidorina", "nidoqueen", "nidoranm", "nidorino", "nidoking", "piepi","pixi","vulpix","vulona", "pummeluff",
-        "knudeluff","zubat","golbat","myrapla","duflor","giflor","paras","parasek","bluzuk","omot","digda","digdri","mauzi","snobilikat","enton","entoron",
-        "menki","rasaff","fukano","arkani","quapsel","quaputzi","quappo","abra","kadabra","simsala","machollo","maschock","machomei","knofensa","ultrigaria",
-        "sarzenia","tentacha","tentoxa","kleinstein","georok","geowaz","ponita","gallopa","flegmon","lahmus","magnetilo","magneton","porenta","dodu","dodri",
-        "jurob","jugong","sleima","sleimok","muschas","austos","nebulak","alpollo","gengar","onix","traumato","hypno","krabby","kingler","voltobal","lektrobal",
-        "owei","kokowei","tragosso","knogga","kicklee","nockchan","schlurp","smogon","smogmog","rihorn","rizeros","chaneira","tangela","kangama","seeper",
-        "seemon","goldini","golking","sterndu","starmie","pantimos","sichlor","rossana","elektek","magmar","pinsir","tauros","karpador","garados","lapras",
-        "ditto","evoli","aquana","blitza","flamara","porygon","amonitas","amoroso","kaputo","kaputops","aerodactyl","relaxo","arktos","zaptos","lavados",
-        "dratini","dragonir","dragoran","mewtu","mew",
+ list = ["bisasam", "bisaknosp", "bisaflor", "glumanda", "glutexo", "glurak", "schiggy", "schillok", "turtok","raupy", "safcon", "smettbo","hornliu", "kokuna",
+        "bibor", "taubsi","tauboga", "tauboss", "rattfratz", "rattikarl","habitak","ibitak","rettan","arbok","pikachu","raichu","sandan", "sandamer", "nidoranw",
+        "nidorina", "nidoqueen", "nidoranm", "nidorino", "nidoking", "piepi","pixi","vulpix","vulona", "pummeluff","knudeluff","zubat","golbat","myrapla","duflor",
+        "giflor","paras","parasek","bluzuk","omot","digda","digdri","mauzi","snobilikat","enton","entoron","menki","rasaff","fukano","arkani","quapsel","quaputzi",
+        "quappo","abra","kadabra","simsala","machollo","maschock","machomei","knofensa","ultrigaria","sarzenia","tentacha","tentoxa","kleinstein","georok","geowaz",
+        "ponita","gallopa","flegmon","lahmus","magnetilo","magneton","porenta","dodu","dodri","jurob","jugong","sleima","sleimok","muschas","austos","nebulak",
+        "alpollo","gengar","onix","traumato","hypno","krabby","kingler","voltobal","lektrobal","owei","kokowei","tragosso","knogga","kicklee","nockchan","schlurp",
+        "smogon","smogmog","rihorn","rizeros","chaneira","tangela","kangama","seeper","seemon","goldini","golking","sterndu","starmie","pantimos","sichlor","rossana",
+        "elektek","magmar","pinsir","tauros","karpador","garados","lapras","ditto","evoli","aquana","blitza","flamara","porygon","amonitas","amoroso","kaputo","kaputops",
+        "aerodactyl","relaxo","arktos","zaptos","lavados","dratini","dragonir","dragoran","mewtu","mew",
         "endivie","lorblatt","meganie","feurigel","igelavar","tornupto","karnimani","tyracroc","impergator","wiesor","wiesenior","hoothoot","noctuh","ledyba",
         "ledian","webarak","ariados","iksbat","lampi","lanturn","pichu","pii","fluffeluff","togepi","togepic","natu","xatu","voltilamm","waaty","ampharos",
         "blubella","marill","azumarill","mogelbaum","quaxo","hoppspross","hubelupf","papungha","griffel","sonnkern","sonnflora","yanma","felino",
@@ -21,13 +20,26 @@ list = ["bisasam", "bisaknosp", "bisaflor", "glumanda", "glutexo", "glurak", "sc
         "waumpel","schaloko","papinella","paneko","pudox","loturzel","lombrero","kappalores","samurzel","blanas","tengulist","schwalbini","schwalboss",
         "wingull","pelipper","trasla","kirlia","guardevoir","gehweiher","maskeregen","knilz","kapilz","bummelz","muntier","letarking","nincada","ninjask",
         "ninjatom","flurmel","krakelo","krawumms","makuhita","hariyama","azurill","nasgnet","eneco","enekoro","zobiris","flunkiefer","stollunior",
-        "stollrak","stolloss","meditie","meditalis",
+        "stollrak","stolloss","meditie","meditalis","frizelbliz","voltenso","plusle","minun","volbeat","illumise","roselia","schluppuck","schlukwech",
+        "kanivanha","tohaido","wailmer","wailord","camaub","camerupt","qurtel","spoint","groink","pandir","knacklion","vibrava","libeldra","tuska","notuska",
+        "wablu","altaria","sengo","vipitis","lunastein",
+         
+        "chelast","chelcarain","chelterrar","panflam","panpyro","panferno"
 
+        "victini","serpifeu","efoserp","serpiroyal",
 
         "igamaro","igastarnish","brigaron","fynx","rutena","fennexis","froxy","amphizel","quajutsu","scoppel","grebbit","dartiri","dartignis","fiaro","purmel","puponcho",
         "vivillon","leufeo","pyroleo","flabebe","floette","florges","maehikel","chevrumm","pampam","pandrago","coiffwaff","psiau","psiaugon","gramokles","duokles",
         "durengard","parfi","parfinesse","flauschling","sabbaione","iscalar","calamanero","bithora","thanathora","scampisto","wummer","eguana","elezard","balgoras",
         "monargoras","amarino","amagarga","feelinara","resladero","dedenne","rocara","viscora","viscargot","viscogon","clavion","paragoni","trombork","irrbis",
-        "pumpdjinn","arktip","arktilas","efem","uhafnir","xerneas","yveltal","zygarde","diancie","hoopa","volcanion"]
+        "pumpdjinn","arktip","arktilas","efem","uhafnir","xerneas","yveltal","zygarde","diancie","hoopa","volcanion",
+        
+        "bauz","arboretoss","silvaro","flamiau","miezunder","fuegro",
+        
+        "chimpep","chimstix","gortrom","hopplo","kickerlo","liberlo",
+        
+        "felori","feliospa","maskagato","krokel","lokroko","skelekrok",
+        "infamomo"]
+
 
 
